@@ -1,0 +1,1878 @@
+[
+  {
+    "id": "m1",
+    "title": "肖申克的救赎",
+    "originalTitle": "The Shawshank Redemption",
+    "type": "movie",
+    "year": 1994,
+    "rating": 9.7,
+    "ratingCount": 2890000,
+    "popularity": 99,
+    "genre": [
+      "剧情",
+      "犯罪"
+    ],
+    "region": "美国",
+    "duration": 142,
+    "director": "弗兰克·德拉邦特",
+    "cast": [
+      "蒂姆·罗宾斯",
+      "摩根·弗里曼"
+    ],
+    "poster": "/posters/001 肖申克的救赎.jpg",
+    "backdrop": "https://picsum.photos/seed/m1-bg/1280/720",
+    "description": "银行家安迪被冤枉入狱，在肖申克监狱中，他用二十年的隐忍与智慧，书写了一个关于希望与自由的不朽传奇。"
+  },
+  {
+    "id": "m2",
+    "title": "霸王别姬",
+    "originalTitle": "Farewell My Concubine",
+    "type": "movie",
+    "year": 1993,
+    "rating": 9.6,
+    "ratingCount": 1890000,
+    "popularity": 97,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "中国大陆 / 中国香港",
+    "duration": 171,
+    "director": "陈凯歌",
+    "cast": [
+      "张国荣",
+      "张丰毅",
+      "巩俐"
+    ],
+    "poster": "/posters/002 霸王别姬.jpg",
+    "backdrop": "https://picsum.photos/seed/m2-bg/1280/720",
+    "description": "程蝶衣与段小楼因京剧结缘，跨越半个世纪的风云变幻。戏里戏外，人生如戏，一段荡气回肠的悲剧就此展开。"
+  },
+  {
+    "id": "m3",
+    "title": "阿甘正传",
+    "originalTitle": "Forrest Gump",
+    "type": "movie",
+    "year": 1994,
+    "rating": 9.5,
+    "ratingCount": 1980000,
+    "popularity": 96,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "美国",
+    "duration": 142,
+    "director": "罗伯特·泽米吉斯",
+    "cast": [
+      "汤姆·汉克斯",
+      "罗宾·怀特"
+    ],
+    "poster": "/posters/003 阿甘正传.jpg",
+    "backdrop": "https://picsum.photos/seed/m3-bg/1280/720",
+    "description": "智商只有 75 的阿甘凭借单纯与执着，一路奔跑过美国几十年的历史风云，书写了一段不可思议的人生传奇。"
+  },
+  {
+    "id": "m4",
+    "title": "美丽人生",
+    "originalTitle": "Life Is Beautiful",
+    "type": "movie",
+    "year": 1997,
+    "rating": 9.5,
+    "ratingCount": 1280000,
+    "popularity": 94,
+    "genre": [
+      "剧情",
+      "喜剧",
+      "爱情"
+    ],
+    "region": "意大利",
+    "duration": 116,
+    "director": "罗伯托·贝尼尼",
+    "cast": [
+      "罗伯托·贝尼尼",
+      "尼可莱塔·布拉斯基"
+    ],
+    "poster": "/posters/006 美丽人生.jpg",
+    "backdrop": "https://picsum.photos/seed/m4-bg/1280/720",
+    "description": "犹太父亲圭多在纳粹集中营里，用一场精心编织的谎言游戏，守护住儿子童年最后的纯真。"
+  },
+  {
+    "id": "m5",
+    "title": "泰坦尼克号",
+    "originalTitle": "Titanic",
+    "type": "movie",
+    "year": 1997,
+    "rating": 9.5,
+    "ratingCount": 2090000,
+    "popularity": 95,
+    "genre": [
+      "剧情",
+      "爱情",
+      "灾难"
+    ],
+    "region": "美国",
+    "duration": 194,
+    "director": "詹姆斯·卡梅隆",
+    "cast": [
+      "莱昂纳多·迪卡普里奥",
+      "凯特·温丝莱特"
+    ],
+    "poster": "/posters/004 泰坦尼克号.jpg",
+    "backdrop": "https://picsum.photos/seed/m5-bg/1280/720",
+    "description": "穷画家杰克与贵族少女露丝在泰坦尼克号上相爱，一场世纪海难让这份爱情成为永恒。"
+  },
+  {
+    "id": "m6",
+    "title": "千与千寻",
+    "originalTitle": "Spirited Away",
+    "type": "movie",
+    "year": 2001,
+    "rating": 9.4,
+    "ratingCount": 2280000,
+    "popularity": 96,
+    "genre": [
+      "动画",
+      "奇幻",
+      "冒险"
+    ],
+    "region": "日本",
+    "duration": 125,
+    "director": "宫崎骏",
+    "cast": [
+      "柊瑠美",
+      "入野自由",
+      "夏木真理"
+    ],
+    "poster": "/posters/007 千与千寻.jpg",
+    "backdrop": "https://picsum.photos/seed/m6-bg/1280/720",
+    "description": "少女千寻误入神灵世界，父母被变成猪。为了拯救家人，她在汤屋中打工，经历了一段关于成长与勇气的奇幻旅程。"
+  },
+  {
+    "id": "m7",
+    "title": "这个杀手不太冷",
+    "originalTitle": "Léon: The Professional",
+    "type": "movie",
+    "year": 1994,
+    "rating": 9.4,
+    "ratingCount": 2010000,
+    "popularity": 93,
+    "genre": [
+      "剧情",
+      "犯罪"
+    ],
+    "region": "法国 / 美国",
+    "duration": 110,
+    "director": "吕克·贝松",
+    "cast": [
+      "让·雷诺",
+      "娜塔莉·波特曼"
+    ],
+    "poster": "/posters/005 这个杀手不太冷.jpg",
+    "backdrop": "https://picsum.photos/seed/m7-bg/1280/720",
+    "description": "冷酷的职业杀手里昂救下了无家可归的小女孩玛蒂尔达，两人在相处中建立了如父女又似恋人的复杂羁绊。"
+  },
+  {
+    "id": "m8",
+    "title": "星际穿越",
+    "originalTitle": "Interstellar",
+    "type": "movie",
+    "year": 2014,
+    "rating": 9.4,
+    "ratingCount": 1820000,
+    "popularity": 95,
+    "genre": [
+      "科幻",
+      "冒险",
+      "剧情"
+    ],
+    "region": "美国",
+    "duration": 169,
+    "director": "克里斯托弗·诺兰",
+    "cast": [
+      "马修·麦康纳",
+      "安妮·海瑟薇",
+      "杰西卡·查斯坦"
+    ],
+    "poster": "/posters/010 星际穿越.jpg",
+    "backdrop": "https://picsum.photos/seed/m8-bg/1280/720",
+    "description": "近未来的地球黄沙遍野，人类面临灭绝危机。一组宇航员穿越虫洞，为人类寻找新家园，却发现时间与亲情远比想象中复杂。"
+  },
+  {
+    "id": "m9",
+    "title": "十二怒汉",
+    "originalTitle": "12 Angry Men",
+    "type": "movie",
+    "year": 1957,
+    "rating": 9.4,
+    "ratingCount": 630000,
+    "popularity": 84,
+    "genre": [
+      "剧情"
+    ],
+    "region": "美国",
+    "duration": 96,
+    "director": "西德尼·吕美特",
+    "cast": [
+      "亨利·方达",
+      "李·科布"
+    ],
+    "poster": "/posters/039 十二怒汉.jpg",
+    "backdrop": "https://picsum.photos/seed/m9-bg/1280/720",
+    "description": "十二名陪审员围绕一桩少年弑父案展开激辩，一名陪审员的合理怀疑，让正义的天平逐渐倾斜。"
+  },
+  {
+    "id": "m10",
+    "title": "忠犬八公的故事",
+    "originalTitle": "Hachi: A Dog's Tale",
+    "type": "movie",
+    "year": 2009,
+    "rating": 9.4,
+    "ratingCount": 1420000,
+    "popularity": 91,
+    "genre": [
+      "剧情"
+    ],
+    "region": "美国 / 英国",
+    "duration": 93,
+    "director": "拉斯·霍尔斯道姆",
+    "cast": [
+      "理查·基尔",
+      "琼·艾伦"
+    ],
+    "poster": "/posters/011 忠犬八公的故事.jpg",
+    "backdrop": "https://picsum.photos/seed/m10-bg/1280/720",
+    "description": "一只秋田犬在主人离世后，依然日复一日守在车站等候，用一生诠释了何为忠诚与等待。"
+  },
+  {
+    "id": "m11",
+    "title": "海上钢琴师",
+    "originalTitle": "The Legend of 1900",
+    "type": "movie",
+    "year": 1998,
+    "rating": 9.3,
+    "ratingCount": 1680000,
+    "popularity": 92,
+    "genre": [
+      "剧情",
+      "音乐"
+    ],
+    "region": "意大利",
+    "duration": 165,
+    "director": "朱塞佩·托纳多雷",
+    "cast": [
+      "蒂姆·罗斯",
+      "比尔·努恩"
+    ],
+    "poster": "/posters/013 海上钢琴师.jpg",
+    "backdrop": "https://picsum.photos/seed/m11-bg/1280/720",
+    "description": "出生在邮轮上的钢琴天才「1900」一生从未踏上陆地，用琴声与孤独为伴，最终与船一同沉入大海。"
+  },
+  {
+    "id": "m12",
+    "title": "放牛班的春天",
+    "originalTitle": "Les Choristes",
+    "type": "movie",
+    "year": 2004,
+    "rating": 9.3,
+    "ratingCount": 1190000,
+    "popularity": 89,
+    "genre": [
+      "剧情",
+      "音乐"
+    ],
+    "region": "法国",
+    "duration": 97,
+    "director": "克里斯托夫·巴拉蒂",
+    "cast": [
+      "热拉尔·朱尼奥",
+      "让-巴蒂斯特·莫尼耶"
+    ],
+    "poster": "/posters/016 放牛班的春天.jpg",
+    "backdrop": "https://picsum.photos/seed/m12-bg/1280/720",
+    "description": "一位落魄音乐家来到寄宿学校当助教，用合唱团唤醒了问题少年们内心深处的希望与音乐天赋。"
+  },
+  {
+    "id": "m13",
+    "title": "盗梦空间",
+    "originalTitle": "Inception",
+    "type": "movie",
+    "year": 2010,
+    "rating": 9.3,
+    "ratingCount": 1980000,
+    "popularity": 95,
+    "genre": [
+      "科幻",
+      "悬疑",
+      "冒险"
+    ],
+    "region": "美国 / 英国",
+    "duration": 148,
+    "director": "克里斯托弗·诺兰",
+    "cast": [
+      "莱昂纳多·迪卡普里奥",
+      "约瑟夫·高登-莱维特",
+      "玛丽昂·歌迪亚"
+    ],
+    "poster": "/posters/009 盗梦空间.jpg",
+    "backdrop": "https://picsum.photos/seed/m13-bg/1280/720",
+    "description": "造梦师道姆·柯布能够潜入他人梦境窃取机密，一次「植梦」任务让他有机会回家，却也让他陷入层层梦境的迷局。"
+  },
+  {
+    "id": "m14",
+    "title": "辛德勒的名单",
+    "originalTitle": "Schindler's List",
+    "type": "movie",
+    "year": 1993,
+    "rating": 9.5,
+    "ratingCount": 1120000,
+    "popularity": 90,
+    "genre": [
+      "剧情",
+      "历史",
+      "战争"
+    ],
+    "region": "美国",
+    "duration": 195,
+    "director": "史蒂文·斯皮尔伯格",
+    "cast": [
+      "连姆·尼森",
+      "本·金斯利",
+      "拉尔夫·费因斯"
+    ],
+    "poster": "/posters/008 辛德勒的名单.jpg",
+    "backdrop": "https://picsum.photos/seed/m14-bg/1280/720",
+    "description": "德国商人辛德勒在纳粹屠杀犹太人的黑暗中，倾尽家财拯救了上千条生命，名单上的每个名字都是一个被救赎的世界。"
+  },
+  {
+    "id": "m15",
+    "title": "楚门的世界",
+    "originalTitle": "The Truman Show",
+    "type": "movie",
+    "year": 1998,
+    "rating": 9.3,
+    "ratingCount": 1720000,
+    "popularity": 92,
+    "genre": [
+      "剧情",
+      "科幻"
+    ],
+    "region": "美国",
+    "duration": 103,
+    "director": "彼得·威尔",
+    "cast": [
+      "金·凯瑞",
+      "劳拉·琳妮"
+    ],
+    "poster": "/posters/012 楚门的世界.jpg",
+    "backdrop": "https://picsum.photos/seed/m15-bg/1280/720",
+    "description": "楚门从小到大都生活在一档真人秀的巨型摄影棚里，当他终于察觉真相，毅然走向通往真实世界的那扇门。"
+  },
+  {
+    "id": "m16",
+    "title": "三傻大闹宝莱坞",
+    "originalTitle": "3 Idiots",
+    "type": "movie",
+    "year": 2009,
+    "rating": 9.2,
+    "ratingCount": 1790000,
+    "popularity": 93,
+    "genre": [
+      "剧情",
+      "喜剧"
+    ],
+    "region": "印度",
+    "duration": 171,
+    "director": "拉库马·希拉尼",
+    "cast": [
+      "阿米尔·汗",
+      "马德哈万",
+      "沙尔曼·乔希"
+    ],
+    "poster": "/posters/014 三傻大闹宝莱坞.jpg",
+    "backdrop": "https://picsum.photos/seed/m16-bg/1280/720",
+    "description": "特立独行的兰彻用他的人生哲学，戳破僵化教育制度的谎言，也让两个好友重新找回梦想。"
+  },
+  {
+    "id": "m17",
+    "title": "机器人总动员",
+    "originalTitle": "WALL·E",
+    "type": "movie",
+    "year": 2008,
+    "rating": 9.3,
+    "ratingCount": 1310000,
+    "popularity": 89,
+    "genre": [
+      "动画",
+      "科幻",
+      "冒险"
+    ],
+    "region": "美国",
+    "duration": 98,
+    "director": "安德鲁·斯坦顿",
+    "cast": [
+      "本·贝尔特",
+      "艾丽莎·奈特"
+    ],
+    "poster": "/posters/015 机器人总动员.jpg",
+    "backdrop": "https://picsum.photos/seed/m17-bg/1280/720",
+    "description": "在堆满垃圾的废弃地球上，孤独的清扫机器人瓦力邂逅了高科技机器人伊娃，一段跨越星际的浪漫就此开启。"
+  },
+  {
+    "id": "m18",
+    "title": "熔炉",
+    "originalTitle": "Silenced",
+    "type": "movie",
+    "year": 2011,
+    "rating": 9.3,
+    "ratingCount": 1080000,
+    "popularity": 88,
+    "genre": [
+      "剧情"
+    ],
+    "region": "韩国",
+    "duration": 125,
+    "director": "黄东赫",
+    "cast": [
+      "孔刘",
+      "郑有美",
+      "金贤秀"
+    ],
+    "poster": "/posters/020 熔炉.jpg",
+    "backdrop": "https://picsum.photos/seed/m18-bg/1280/720",
+    "description": "一所聋哑学校背后隐藏着令人发指的性侵丑闻，一位教师与人权斗士携手，为无声的孩子们讨回公道。"
+  },
+  {
+    "id": "m19",
+    "title": "无间道",
+    "originalTitle": "Infernal Affairs",
+    "type": "movie",
+    "year": 2002,
+    "rating": 9.3,
+    "ratingCount": 1310000,
+    "popularity": 90,
+    "genre": [
+      "剧情",
+      "犯罪",
+      "悬疑"
+    ],
+    "region": "中国香港",
+    "duration": 101,
+    "director": "刘伟强 / 麦兆辉",
+    "cast": [
+      "刘德华",
+      "梁朝伟",
+      "黄秋生"
+    ],
+    "poster": "/posters/017 无间道.jpg",
+    "backdrop": "https://picsum.photos/seed/m19-bg/1280/720",
+    "description": "警方与黑帮各自安插卧底，两个在无间地狱中行走的人，在身份错位间展开一场生死博弈。"
+  },
+  {
+    "id": "m20",
+    "title": "疯狂动物城",
+    "originalTitle": "Zootopia",
+    "type": "movie",
+    "year": 2016,
+    "rating": 9.2,
+    "ratingCount": 1720000,
+    "popularity": 91,
+    "genre": [
+      "喜剧",
+      "动画",
+      "冒险"
+    ],
+    "region": "美国",
+    "duration": 109,
+    "director": "拜伦·霍华德 / 瑞奇·摩尔",
+    "cast": [
+      "金妮弗·古德温",
+      "杰森·贝特曼"
+    ],
+    "poster": "/posters/018 疯狂动物城.jpg",
+    "backdrop": "https://picsum.photos/seed/m20-bg/1280/720",
+    "description": "小兔子朱迪来到动物城当警察，与狐狸尼克搭档侦破一起神秘失踪案，揭开了这座乌托邦背后的偏见与真相。"
+  },
+  {
+    "id": "m21",
+    "title": "教父",
+    "originalTitle": "The Godfather",
+    "type": "movie",
+    "year": 1972,
+    "rating": 9.3,
+    "ratingCount": 980000,
+    "popularity": 87,
+    "genre": [
+      "剧情",
+      "犯罪"
+    ],
+    "region": "美国",
+    "duration": 175,
+    "director": "弗朗西斯·福特·科波拉",
+    "cast": [
+      "马龙·白兰度",
+      "阿尔·帕西诺",
+      "詹姆斯·肯恩"
+    ],
+    "poster": "/posters/022 教父1.jpg",
+    "backdrop": "https://picsum.photos/seed/m21-bg/1280/720",
+    "description": "柯里昂家族的权力交替中，小儿子迈克尔从局外人一步步走向教父之位，一个黑帮帝国的兴衰史诗就此展开。"
+  },
+  {
+    "id": "m22",
+    "title": "触不可及",
+    "originalTitle": "Intouchables",
+    "type": "movie",
+    "year": 2011,
+    "rating": 9.3,
+    "ratingCount": 1100000,
+    "popularity": 89,
+    "genre": [
+      "剧情",
+      "喜剧"
+    ],
+    "region": "法国",
+    "duration": 112,
+    "director": "奥利维·那卡什 / 艾力克·托兰达",
+    "cast": [
+      "弗朗索瓦·克鲁塞",
+      "奥马·希"
+    ],
+    "poster": "/posters/024 触不可及.jpg",
+    "backdrop": "https://picsum.photos/seed/m22-bg/1280/720",
+    "description": "瘫痪的贵族菲利普雇佣了出身贫寒的黑人青年德希斯当护工，两个来自不同世界的人结下了超越阶层的真挚友谊。"
+  },
+  {
+    "id": "m23",
+    "title": "指环王3：王者无敌",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "type": "movie",
+    "year": 2003,
+    "rating": 9.3,
+    "ratingCount": 980000,
+    "popularity": 88,
+    "genre": [
+      "剧情",
+      "动作",
+      "奇幻",
+      "冒险"
+    ],
+    "region": "美国 / 新西兰",
+    "duration": 201,
+    "director": "彼得·杰克逊",
+    "cast": [
+      "伊利亚·伍德",
+      "维果·莫腾森",
+      "奥兰多·布鲁姆"
+    ],
+    "poster": "/posters/032 指环王3.jpg",
+    "backdrop": "https://picsum.photos/seed/m23-bg/1280/720",
+    "description": "魔戒远征军迎来最后一战，弗罗多与山姆深入末日火山，中土世界的命运在此刻揭晓。"
+  },
+  {
+    "id": "m24",
+    "title": "乱世佳人",
+    "originalTitle": "Gone with the Wind",
+    "type": "movie",
+    "year": 1939,
+    "rating": 9.3,
+    "ratingCount": 610000,
+    "popularity": 83,
+    "genre": [
+      "剧情",
+      "爱情",
+      "历史"
+    ],
+    "region": "美国",
+    "duration": 238,
+    "director": "维克多·弗莱明",
+    "cast": [
+      "克拉克·盖博",
+      "费雯·丽"
+    ],
+    "poster": "/posters/033 乱世佳人.jpg",
+    "backdrop": "https://picsum.photos/seed/m24-bg/1280/720",
+    "description": "南北战争的战火中，坚韧任性的斯嘉丽为守护家园与爱情不断抗争，演绎了一段跨越时代的乱世史诗。"
+  },
+  {
+    "id": "m25",
+    "title": "龙猫",
+    "originalTitle": "My Neighbor Totoro",
+    "type": "movie",
+    "year": 1988,
+    "rating": 9.2,
+    "ratingCount": 1390000,
+    "popularity": 89,
+    "genre": [
+      "动画",
+      "奇幻",
+      "家庭"
+    ],
+    "region": "日本",
+    "duration": 86,
+    "director": "宫崎骏",
+    "cast": [
+      "日高法子",
+      "坂本千夏"
+    ],
+    "poster": "/posters/026 龙猫.jpg",
+    "backdrop": "https://picsum.photos/seed/m25-bg/1280/720",
+    "description": "搬到乡下的两姐妹遇见了神秘的森林精灵龙猫，一段充满童趣与温情的夏日奇遇就此展开。"
+  },
+  {
+    "id": "m26",
+    "title": "大话西游之大圣娶亲",
+    "originalTitle": "A Chinese Odyssey Part Two: Cinderella",
+    "type": "movie",
+    "year": 1995,
+    "rating": 9.2,
+    "ratingCount": 1280000,
+    "popularity": 90,
+    "genre": [
+      "喜剧",
+      "爱情",
+      "奇幻"
+    ],
+    "region": "中国香港 / 中国大陆",
+    "duration": 95,
+    "director": "刘镇伟",
+    "cast": [
+      "周星驰",
+      "朱茵",
+      "吴孟达"
+    ],
+    "poster": "/posters/019 大话西游之大圣娶亲.jpg",
+    "backdrop": "https://picsum.photos/seed/m26-bg/1280/720",
+    "description": "至尊宝为救爱人穿越五百年，在戴上金箍前，终于明白了爱一个人与放弃一个人的意义。"
+  },
+  {
+    "id": "m27",
+    "title": "当幸福来敲门",
+    "originalTitle": "The Pursuit of Happyness",
+    "type": "movie",
+    "year": 2006,
+    "rating": 9.1,
+    "ratingCount": 1420000,
+    "popularity": 90,
+    "genre": [
+      "剧情",
+      "传记"
+    ],
+    "region": "美国",
+    "duration": 117,
+    "director": "加布里尔·穆奇诺",
+    "cast": [
+      "威尔·史密斯",
+      "贾登·史密斯"
+    ],
+    "poster": "/posters/023 当幸福来敲门.jpg",
+    "backdrop": "https://picsum.photos/seed/m27-bg/1280/720",
+    "description": "濒临破产的推销员克里斯带着年幼的儿子在困境中挣扎，靠着一股不服输的韧劲，最终敲开了幸福的大门。"
+  },
+  {
+    "id": "m28",
+    "title": "天空之城",
+    "originalTitle": "Castle in the Sky",
+    "type": "movie",
+    "year": 1986,
+    "rating": 9.1,
+    "ratingCount": 990000,
+    "popularity": 86,
+    "genre": [
+      "动画",
+      "奇幻",
+      "冒险"
+    ],
+    "region": "日本",
+    "duration": 124,
+    "director": "宫崎骏",
+    "cast": [
+      "田中真弓",
+      "横泽启子"
+    ],
+    "poster": "/posters/045 天空之城.jpg",
+    "backdrop": "https://picsum.photos/seed/m28-bg/1280/720",
+    "description": "少年巴鲁与少女希达为了守护传说中的天空之城拉普达，与军队和海盗展开了一场惊心动魄的冒险。"
+  },
+  {
+    "id": "m29",
+    "title": "哈尔的移动城堡",
+    "originalTitle": "Howl's Moving Castle",
+    "type": "movie",
+    "year": 2004,
+    "rating": 9.1,
+    "ratingCount": 1120000,
+    "popularity": 87,
+    "genre": [
+      "动画",
+      "奇幻",
+      "冒险"
+    ],
+    "region": "日本",
+    "duration": 119,
+    "director": "宫崎骏",
+    "cast": [
+      "倍赏千惠子",
+      "木村拓哉"
+    ],
+    "poster": "/posters/040 哈尔的移动城堡.jpg",
+    "backdrop": "https://picsum.photos/seed/m29-bg/1280/720",
+    "description": "被女巫诅咒变老的少女苏菲，走进魔法师哈尔的移动城堡，在战争中追寻属于自己的勇气与爱情。"
+  },
+  {
+    "id": "m30",
+    "title": "蝙蝠侠：黑暗骑士",
+    "originalTitle": "The Dark Knight",
+    "type": "movie",
+    "year": 2008,
+    "rating": 9.2,
+    "ratingCount": 1080000,
+    "popularity": 88,
+    "genre": [
+      "剧情",
+      "动作",
+      "犯罪"
+    ],
+    "region": "美国 / 英国",
+    "duration": 152,
+    "director": "克里斯托弗·诺兰",
+    "cast": [
+      "克里斯蒂安·贝尔",
+      "希斯·莱杰",
+      "艾伦·艾克哈特"
+    ],
+    "poster": "/posters/029 蝙蝠侠（黑暗骑士）.jpg",
+    "backdrop": "https://picsum.photos/seed/m30-bg/1280/720",
+    "description": "蝙蝠侠与疯狂的小丑展开殊死较量，正义的底线在混乱与抉择中被反复拷问。"
+  },
+  {
+    "id": "m31",
+    "title": "指环王1：护戒使者",
+    "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "type": "movie",
+    "year": 2001,
+    "rating": 9.1,
+    "ratingCount": 990000,
+    "popularity": 87,
+    "genre": [
+      "剧情",
+      "动作",
+      "奇幻",
+      "冒险"
+    ],
+    "region": "美国 / 新西兰",
+    "duration": 178,
+    "director": "彼得·杰克逊",
+    "cast": [
+      "伊利亚·伍德",
+      "伊恩·麦克莱恩"
+    ],
+    "poster": "/posters/054 指环王1.jpg",
+    "backdrop": "https://picsum.photos/seed/m31-bg/1280/720",
+    "description": "年轻的霍比特人弗罗多继承魔戒，与护戒使者们踏上护送魔戒前往末日火山的艰险征途。"
+  },
+  {
+    "id": "m32",
+    "title": "指环王2：双塔奇兵",
+    "originalTitle": "The Lord of the Rings: The Two Towers",
+    "type": "movie",
+    "year": 2002,
+    "rating": 9.1,
+    "ratingCount": 980000,
+    "popularity": 87,
+    "genre": [
+      "剧情",
+      "动作",
+      "奇幻",
+      "冒险"
+    ],
+    "region": "美国 / 新西兰",
+    "duration": 179,
+    "director": "彼得·杰克逊",
+    "cast": [
+      "伊利亚·伍德",
+      "伊恩·麦克莱恩"
+    ],
+    "poster": "/posters/048 指环王2.jpg",
+    "backdrop": "https://picsum.photos/seed/m32-bg/1280/720",
+    "description": "护戒队分崩离析后，弗罗多与山姆继续向末日山进发，中土世界的战火愈演愈烈。"
+  },
+  {
+    "id": "m33",
+    "title": "黑客帝国",
+    "originalTitle": "The Matrix",
+    "type": "movie",
+    "year": 1999,
+    "rating": 9.1,
+    "ratingCount": 980000,
+    "popularity": 87,
+    "genre": [
+      "动作",
+      "科幻"
+    ],
+    "region": "美国",
+    "duration": 136,
+    "director": "莉莉·沃卓斯基 / 拉娜·沃卓斯基",
+    "cast": [
+      "基努·里维斯",
+      "凯瑞-安·莫斯",
+      "劳伦斯·菲什伯恩"
+    ],
+    "poster": "/posters/053 黑客帝国.jpg",
+    "backdrop": "https://picsum.photos/seed/m33-bg/1280/720",
+    "description": "程序员尼奥发现现实世界不过是人工智能制造的虚拟幻境，他作为「救世主」开始了对抗机器的觉醒之路。"
+  },
+  {
+    "id": "m34",
+    "title": "拯救大兵瑞恩",
+    "originalTitle": "Saving Private Ryan",
+    "type": "movie",
+    "year": 1998,
+    "rating": 9.0,
+    "ratingCount": 890000,
+    "popularity": 85,
+    "genre": [
+      "剧情",
+      "战争"
+    ],
+    "region": "美国",
+    "duration": 169,
+    "director": "史蒂文·斯皮尔伯格",
+    "cast": [
+      "汤姆·汉克斯",
+      "马特·达蒙"
+    ],
+    "poster": "/posters/072 拯救大兵瑞恩.jpg",
+    "backdrop": "https://picsum.photos/seed/m34-bg/1280/720",
+    "description": "诺曼底登陆后，一支八人小队深入战场，只为寻找并带回一个家庭中唯一幸存的儿子。"
+  },
+  {
+    "id": "m35",
+    "title": "飞屋环游记",
+    "originalTitle": "Up",
+    "type": "movie",
+    "year": 2009,
+    "rating": 9.1,
+    "ratingCount": 980000,
+    "popularity": 86,
+    "genre": [
+      "剧情",
+      "喜剧",
+      "动画",
+      "冒险"
+    ],
+    "region": "美国",
+    "duration": 96,
+    "director": "彼特·道格特",
+    "cast": [
+      "爱德华·阿斯纳",
+      "乔丹·长井"
+    ],
+    "poster": "/posters/035 飞屋环游记.jpg",
+    "backdrop": "https://picsum.photos/seed/m35-bg/1280/720",
+    "description": "年迈的卡尔用气球把房子带上天空，去兑现与亡妻的约定，途中却意外带上了活泼的小男孩罗素。"
+  },
+  {
+    "id": "m36",
+    "title": "寻梦环游记",
+    "originalTitle": "Coco",
+    "type": "movie",
+    "year": 2017,
+    "rating": 9.1,
+    "ratingCount": 1480000,
+    "popularity": 90,
+    "genre": [
+      "喜剧",
+      "动画",
+      "奇幻"
+    ],
+    "region": "美国",
+    "duration": 105,
+    "director": "李·昂克里奇 / 阿德里安·莫利纳",
+    "cast": [
+      "安东尼·冈萨雷斯",
+      "盖尔·加西亚·贝纳尔"
+    ],
+    "poster": "/posters/028 寻梦环游记.jpg",
+    "backdrop": "https://picsum.photos/seed/m36-bg/1280/720",
+    "description": "热爱音乐的米格意外穿越到亡灵世界，在追寻音乐梦想的同时，揭开了家族尘封的秘密。"
+  },
+  {
+    "id": "m37",
+    "title": "情书",
+    "originalTitle": "Love Letter",
+    "type": "movie",
+    "year": 1995,
+    "rating": 8.9,
+    "ratingCount": 990000,
+    "popularity": 86,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "日本",
+    "duration": 117,
+    "director": "岩井俊二",
+    "cast": [
+      "中山美穗",
+      "柏原崇",
+      "丰川悦司"
+    ],
+    "poster": "/posters/067 情书.jpg",
+    "backdrop": "https://picsum.photos/seed/m37-bg/1280/720",
+    "description": "一封寄往天国的情书，牵出了一段尘封多年的青春暗恋，两个同名同姓的藤井树的故事就此展开。"
+  },
+  {
+    "id": "m38",
+    "title": "怦然心动",
+    "originalTitle": "Flipped",
+    "type": "movie",
+    "year": 2010,
+    "rating": 9.1,
+    "ratingCount": 1580000,
+    "popularity": 91,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "美国",
+    "duration": 90,
+    "director": "罗伯·莱纳",
+    "cast": [
+      "玛德琳·卡罗尔",
+      "卡兰·麦克奥利菲"
+    ],
+    "poster": "/posters/025 怦然心动.jpg",
+    "backdrop": "https://picsum.photos/seed/m38-bg/1280/720",
+    "description": "少女朱莉对邻家男孩布莱斯一见钟情，两个少年少女在青涩岁月里彼此试探、误解，最终怦然心动。"
+  },
+  {
+    "id": "m39",
+    "title": "罗马假日",
+    "originalTitle": "Roman Holiday",
+    "type": "movie",
+    "year": 1953,
+    "rating": 9.1,
+    "ratingCount": 1020000,
+    "popularity": 87,
+    "genre": [
+      "剧情",
+      "喜剧",
+      "爱情"
+    ],
+    "region": "美国",
+    "duration": 118,
+    "director": "威廉·惠勒",
+    "cast": [
+      "奥黛丽·赫本",
+      "格利高里·派克"
+    ],
+    "poster": "/posters/052 罗马假日.jpg",
+    "backdrop": "https://picsum.photos/seed/m39-bg/1280/720",
+    "description": "厌倦宫廷束缚的公主安妮偷跑出游，与记者乔在罗马度过了一天浪漫而短暂的假日。"
+  },
+  {
+    "id": "m40",
+    "title": "猫鼠游戏",
+    "originalTitle": "Catch Me If You Can",
+    "type": "movie",
+    "year": 2002,
+    "rating": 9.1,
+    "ratingCount": 720000,
+    "popularity": 83,
+    "genre": [
+      "剧情",
+      "传记",
+      "犯罪"
+    ],
+    "region": "美国",
+    "duration": 141,
+    "director": "史蒂文·斯皮尔伯格",
+    "cast": [
+      "莱昂纳多·迪卡普里奥",
+      "汤姆·汉克斯"
+    ],
+    "poster": "/posters/043 猫鼠游戏.jpg",
+    "backdrop": "https://picsum.photos/seed/m40-bg/1280/720",
+    "description": "少年诈骗天才弗兰克假扮飞行员、医生、律师行骗全球，与追捕他的 FBI 探员展开一场猫鼠较量。"
+  },
+  {
+    "id": "m41",
+    "title": "末代皇帝",
+    "originalTitle": "The Last Emperor",
+    "type": "movie",
+    "year": 1987,
+    "rating": 9.3,
+    "ratingCount": 630000,
+    "popularity": 84,
+    "genre": [
+      "剧情",
+      "传记",
+      "历史"
+    ],
+    "region": "英国 / 意大利 / 中国大陆",
+    "duration": 163,
+    "director": "贝纳尔多·贝托鲁奇",
+    "cast": [
+      "尊龙",
+      "陈冲",
+      "邬君梅"
+    ],
+    "poster": "/posters/027 末代皇帝.jpg",
+    "backdrop": "https://picsum.photos/seed/m41-bg/1280/720",
+    "description": "末代皇帝溥仪的一生，从紫禁城的龙椅到战犯管理所，见证了一个时代的终结与一个凡人的浮沉。"
+  },
+  {
+    "id": "m42",
+    "title": "天堂电影院",
+    "originalTitle": "Cinema Paradiso",
+    "type": "movie",
+    "year": 1988,
+    "rating": 9.2,
+    "ratingCount": 710000,
+    "popularity": 84,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "意大利 / 法国",
+    "duration": 155,
+    "director": "朱塞佩·托纳多雷",
+    "cast": [
+      "菲利普·努瓦雷",
+      "雅克·佩兰"
+    ],
+    "poster": "/posters/050 天堂电影院.jpg",
+    "backdrop": "https://picsum.photos/seed/m42-bg/1280/720",
+    "description": "小镇男孩多多与放映师艾费多的忘年交，串起了他对电影与初恋的毕生眷恋。"
+  },
+  {
+    "id": "m43",
+    "title": "窃听风暴",
+    "originalTitle": "The Lives of Others",
+    "type": "movie",
+    "year": 2006,
+    "rating": 9.1,
+    "ratingCount": 580000,
+    "popularity": 82,
+    "genre": [
+      "剧情",
+      "悬疑"
+    ],
+    "region": "德国",
+    "duration": 137,
+    "director": "弗洛里安·亨克尔·冯·多纳斯马尔克",
+    "cast": [
+      "乌尔里希·穆埃",
+      "马蒂娜·格德克"
+    ],
+    "poster": "/posters/065 窃听风暴.jpg",
+    "backdrop": "https://picsum.photos/seed/m43-bg/1280/720",
+    "description": "东德秘密警察奉命监听一名剧作家，却在监听中被对方的艺术与爱情触动，良知悄然觉醒。"
+  },
+  {
+    "id": "m44",
+    "title": "阿凡达",
+    "originalTitle": "Avatar",
+    "type": "movie",
+    "year": 2009,
+    "rating": 8.8,
+    "ratingCount": 1210000,
+    "popularity": 88,
+    "genre": [
+      "动作",
+      "科幻",
+      "冒险"
+    ],
+    "region": "美国",
+    "duration": 162,
+    "director": "詹姆斯·卡梅隆",
+    "cast": [
+      "萨姆·沃辛顿",
+      "佐伊·索尔达娜"
+    ],
+    "poster": "/posters/075 阿凡达.jpg",
+    "backdrop": "https://picsum.photos/seed/m44-bg/1280/720",
+    "description": "残疾军人杰克进入潘多拉星球，化身为纳美人，在人类殖民与土著抗争的冲突中选择了自己的立场。"
+  },
+  {
+    "id": "m45",
+    "title": "海豚湾",
+    "originalTitle": "The Cove",
+    "type": "movie",
+    "year": 2009,
+    "rating": 9.3,
+    "ratingCount": 520000,
+    "popularity": 80,
+    "genre": [
+      "纪录片"
+    ],
+    "region": "美国",
+    "duration": 92,
+    "director": "路易·西霍尤斯",
+    "cast": [
+      "里克·奥巴瑞"
+    ],
+    "poster": "/posters/080 海豚湾.jpg",
+    "backdrop": "https://picsum.photos/seed/m45-bg/1280/720",
+    "description": "一群环保人士秘密潜入日本太地町的海豚湾，用镜头揭开了海豚屠杀背后触目惊心的真相。"
+  },
+  {
+    "id": "m46",
+    "title": "素媛",
+    "originalTitle": "Hope",
+    "type": "movie",
+    "year": 2013,
+    "rating": 9.3,
+    "ratingCount": 690000,
+    "popularity": 84,
+    "genre": [
+      "剧情"
+    ],
+    "region": "韩国",
+    "duration": 122,
+    "director": "李濬益",
+    "cast": [
+      "薛景求",
+      "严志媛",
+      "李来"
+    ],
+    "poster": "/posters/034 素媛.jpg",
+    "backdrop": "https://picsum.photos/seed/m46-bg/1280/720",
+    "description": "小女孩素媛遭遇性侵后，家人与整个社会如何帮助她在巨大的创伤中，重新找回生活的希望。"
+  },
+  {
+    "id": "m47",
+    "title": "摔跤吧！爸爸",
+    "originalTitle": "Dangal",
+    "type": "movie",
+    "year": 2016,
+    "rating": 9.0,
+    "ratingCount": 990000,
+    "popularity": 87,
+    "genre": [
+      "剧情",
+      "家庭",
+      "传记"
+    ],
+    "region": "印度",
+    "duration": 161,
+    "director": "涅提·蒂瓦里",
+    "cast": [
+      "阿米尔·汗",
+      "法缇玛·萨那·纱卡"
+    ],
+    "poster": "/posters/037 摔跤吧爸爸.jpg",
+    "backdrop": "https://picsum.photos/seed/m47-bg/1280/720",
+    "description": "退役摔跤手马哈维亚冲破世俗偏见，把两个女儿培养成世界冠军，改写了一个村庄乃至整个国家的命运。"
+  },
+  {
+    "id": "m48",
+    "title": "鬼子来了",
+    "originalTitle": "Devils on the Doorstep",
+    "type": "movie",
+    "year": 2000,
+    "rating": 9.3,
+    "ratingCount": 690000,
+    "popularity": 84,
+    "genre": [
+      "剧情",
+      "战争"
+    ],
+    "region": "中国大陆",
+    "duration": 139,
+    "director": "姜文",
+    "cast": [
+      "姜文",
+      "香川照之",
+      "姜宏波"
+    ],
+    "poster": "/posters/042 鬼子来了.jpg",
+    "backdrop": "https://picsum.photos/seed/m48-bg/1280/720",
+    "description": "抗战末期，一个北方小村庄的农民在看管日军俘虏过程中，经历了一场荒诞而惨烈的人性考验。"
+  },
+  {
+    "id": "m49",
+    "title": "活着",
+    "originalTitle": "To Live",
+    "type": "movie",
+    "year": 1994,
+    "rating": 9.3,
+    "ratingCount": 780000,
+    "popularity": 85,
+    "genre": [
+      "剧情",
+      "家庭"
+    ],
+    "region": "中国大陆",
+    "duration": 132,
+    "director": "张艺谋",
+    "cast": [
+      "葛优",
+      "巩俐"
+    ],
+    "poster": "/posters/030 活着.jpg",
+    "backdrop": "https://picsum.photos/seed/m49-bg/1280/720",
+    "description": "福贵一家历经内战、土改、大跃进与文革，在时代的洪流中艰难求存，用最朴素的方式诠释「活着」本身的意义。"
+  },
+  {
+    "id": "m50",
+    "title": "让子弹飞",
+    "originalTitle": "Let the Bullets Fly",
+    "type": "movie",
+    "year": 2010,
+    "rating": 9.0,
+    "ratingCount": 1580000,
+    "popularity": 92,
+    "genre": [
+      "剧情",
+      "喜剧"
+    ],
+    "region": "中国大陆",
+    "duration": 132,
+    "director": "姜文",
+    "cast": [
+      "姜文",
+      "葛优",
+      "周润发"
+    ],
+    "poster": "/posters/046 让子弹飞.jpg",
+    "backdrop": "https://picsum.photos/seed/m50-bg/1280/720",
+    "description": "土匪张麻子劫持买官上任的马邦德，化身县长与恶霸黄四郎斗智斗勇，一场黑色幽默的权力博弈就此上演。"
+  },
+  {
+    "id": "m51",
+    "title": "狮子王",
+    "originalTitle": "The Lion King",
+    "type": "movie",
+    "year": 1994,
+    "rating": 9.1,
+    "ratingCount": 820000,
+    "popularity": 85,
+    "genre": [
+      "动画",
+      "歌舞",
+      "冒险"
+    ],
+    "region": "美国",
+    "duration": 89,
+    "director": "罗杰·阿勒斯 / 罗伯·明可夫",
+    "cast": [
+      "马修·布罗德里克",
+      "詹姆斯·厄尔·琼斯"
+    ],
+    "poster": "/posters/060 狮子王.jpg",
+    "backdrop": "https://picsum.photos/seed/m51-bg/1280/720",
+    "description": "小狮子辛巴在失去父亲后流亡他乡，最终在朋友的帮助下回归家园，夺回属于自己的王位。"
+  },
+  {
+    "id": "m52",
+    "title": "沉默的羔羊",
+    "originalTitle": "The Silence of the Lambs",
+    "type": "movie",
+    "year": 1991,
+    "rating": 8.9,
+    "ratingCount": 730000,
+    "popularity": 84,
+    "genre": [
+      "惊悚",
+      "犯罪"
+    ],
+    "region": "美国",
+    "duration": 118,
+    "director": "乔纳森·戴米",
+    "cast": [
+      "朱迪·福斯特",
+      "安东尼·霍普金斯"
+    ],
+    "poster": "/posters/077 沉默的羔羊.jpg",
+    "backdrop": "https://picsum.photos/seed/m52-bg/1280/720",
+    "description": "年轻的 FBI 实习生克拉丽丝为破案求助被囚禁的天才食人魔汉尼拔，两人之间展开了一场心理博弈。"
+  },
+  {
+    "id": "m53",
+    "title": "搏击俱乐部",
+    "originalTitle": "Fight Club",
+    "type": "movie",
+    "year": 1999,
+    "rating": 9.0,
+    "ratingCount": 890000,
+    "popularity": 86,
+    "genre": [
+      "剧情",
+      "动作",
+      "悬疑"
+    ],
+    "region": "美国",
+    "duration": 139,
+    "director": "大卫·芬奇",
+    "cast": [
+      "爱德华·诺顿",
+      "布拉德·皮特"
+    ],
+    "poster": "/posters/061 拳击俱乐部.jpg",
+    "backdrop": "https://picsum.photos/seed/m53-bg/1280/720",
+    "description": "被失眠与消费主义困扰的普通白领，与肥皂商人泰勒共创地下搏击俱乐部，在暴力中寻找存在感。"
+  },
+  {
+    "id": "m54",
+    "title": "七宗罪",
+    "originalTitle": "Se7en",
+    "type": "movie",
+    "year": 1995,
+    "rating": 8.8,
+    "ratingCount": 890000,
+    "popularity": 86,
+    "genre": [
+      "惊悚",
+      "犯罪",
+      "悬疑"
+    ],
+    "region": "美国",
+    "duration": 127,
+    "director": "大卫·芬奇",
+    "cast": [
+      "摩根·弗里曼",
+      "布拉德·皮特"
+    ],
+    "poster": "/posters/089 七宗罪.jpg",
+    "backdrop": "https://picsum.photos/seed/m54-bg/1280/720",
+    "description": "一名连环杀手以七宗罪为线索实施谋杀，两位警探在追凶中一步步坠入凶手精心设计的陷阱。"
+  },
+  {
+    "id": "m55",
+    "title": "禁闭岛",
+    "originalTitle": "Shutter Island",
+    "type": "movie",
+    "year": 2010,
+    "rating": 8.9,
+    "ratingCount": 980000,
+    "popularity": 87,
+    "genre": [
+      "悬疑",
+      "惊悚"
+    ],
+    "region": "美国",
+    "duration": 138,
+    "director": "马丁·斯科塞斯",
+    "cast": [
+      "莱昂纳多·迪卡普里奥",
+      "马克·鲁弗洛"
+    ],
+    "poster": "/posters/079 禁闭岛.jpg",
+    "backdrop": "https://picsum.photos/seed/m55-bg/1280/720",
+    "description": "联邦探员来到与世隔绝的精神病院调查失踪案，却在迷雾中发现自己正陷入一场可怕的阴谋。"
+  },
+  {
+    "id": "m56",
+    "title": "蝴蝶效应",
+    "originalTitle": "The Butterfly Effect",
+    "type": "movie",
+    "year": 2004,
+    "rating": 8.8,
+    "ratingCount": 720000,
+    "popularity": 84,
+    "genre": [
+      "科幻",
+      "悬疑",
+      "惊悚"
+    ],
+    "region": "美国",
+    "duration": 113,
+    "director": "埃里克·布雷斯 / J·麦基·格鲁伯",
+    "cast": [
+      "阿什顿·库彻",
+      "艾米·斯马特"
+    ],
+    "poster": "/posters/082 蝴蝶效应.jpg",
+    "backdrop": "https://picsum.photos/seed/m56-bg/1280/720",
+    "description": "青年伊万发现自己能通过日记回到过去，但每一次改变都会引发更无法挽回的连锁后果。"
+  },
+  {
+    "id": "m57",
+    "title": "死亡诗社",
+    "originalTitle": "Dead Poets Society",
+    "type": "movie",
+    "year": 1989,
+    "rating": 9.1,
+    "ratingCount": 720000,
+    "popularity": 84,
+    "genre": [
+      "剧情"
+    ],
+    "region": "美国",
+    "duration": 128,
+    "director": "彼得·威尔",
+    "cast": [
+      "罗宾·威廉姆斯",
+      "伊桑·霍克"
+    ],
+    "poster": "/posters/056 死亡诗社.jpg",
+    "backdrop": "https://picsum.photos/seed/m57-bg/1280/720",
+    "description": "基廷老师用诗歌点燃学生们对自由与梦想的渴望，鼓励他们「及时行乐」，把握当下的青春。"
+  },
+  {
+    "id": "m58",
+    "title": "心灵捕手",
+    "originalTitle": "Good Will Hunting",
+    "type": "movie",
+    "year": 1997,
+    "rating": 8.9,
+    "ratingCount": 720000,
+    "popularity": 84,
+    "genre": [
+      "剧情"
+    ],
+    "region": "美国",
+    "duration": 126,
+    "director": "格斯·范·桑特",
+    "cast": [
+      "马特·达蒙",
+      "罗宾·威廉姆斯",
+      "本·阿弗莱克"
+    ],
+    "poster": "/posters/084 心灵捕手.jpg",
+    "backdrop": "https://picsum.photos/seed/m58-bg/1280/720",
+    "description": "天才清洁工威尔在心理医生肖恩的帮助下，逐渐打开心结，学会面对自己的过去与未来。"
+  },
+  {
+    "id": "m59",
+    "title": "闻香识女人",
+    "originalTitle": "Scent of a Woman",
+    "type": "movie",
+    "year": 1992,
+    "rating": 9.1,
+    "ratingCount": 630000,
+    "popularity": 83,
+    "genre": [
+      "剧情"
+    ],
+    "region": "美国",
+    "duration": 157,
+    "director": "马丁·布莱斯特",
+    "cast": [
+      "阿尔·帕西诺",
+      "克里斯·奥唐纳"
+    ],
+    "poster": "/posters/049 闻香识女人.jpg",
+    "backdrop": "https://picsum.photos/seed/m59-bg/1280/720",
+    "description": "失明的退伍军官弗兰克与贫困学生查理结伴同行，一段旅程让两个迷茫的人各自找到了方向。"
+  },
+  {
+    "id": "m60",
+    "title": "教父2",
+    "originalTitle": "The Godfather Part II",
+    "type": "movie",
+    "year": 1974,
+    "rating": 9.2,
+    "ratingCount": 720000,
+    "popularity": 85,
+    "genre": [
+      "剧情",
+      "犯罪"
+    ],
+    "region": "美国",
+    "duration": 202,
+    "director": "弗朗西斯·福特·科波拉",
+    "cast": [
+      "阿尔·帕西诺",
+      "罗伯特·德尼罗"
+    ],
+    "poster": "/posters/057 教父2.jpg",
+    "backdrop": "https://picsum.photos/seed/m60-bg/1280/720",
+    "description": "双线叙事交织维托·柯里昂的崛起与迈克尔·柯里昂的守业，一个黑帮家族的传承与堕落尽收眼底。"
+  },
+  {
+    "id": "m61",
+    "title": "阳光灿烂的日子",
+    "originalTitle": "In the Heat of the Sun",
+    "type": "movie",
+    "year": 1994,
+    "rating": 8.9,
+    "ratingCount": 630000,
+    "popularity": 83,
+    "genre": [
+      "剧情"
+    ],
+    "region": "中国大陆",
+    "duration": 134,
+    "director": "姜文",
+    "cast": [
+      "夏雨",
+      "宁静",
+      "陶虹"
+    ],
+    "poster": "/posters/116 阳光灿烂的日子.jpg",
+    "backdrop": "https://picsum.photos/seed/m61-bg/1280/720",
+    "description": "文革年代的大院里，少年马小军和伙伴们在燥热的夏天里嬉戏、打架、暗恋，度过了一段阳光灿烂的青春。"
+  },
+  {
+    "id": "m62",
+    "title": "花样年华",
+    "originalTitle": "In the Mood for Love",
+    "type": "movie",
+    "year": 2000,
+    "rating": 8.7,
+    "ratingCount": 790000,
+    "popularity": 85,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "中国香港",
+    "duration": 98,
+    "director": "王家卫",
+    "cast": [
+      "梁朝伟",
+      "张曼玉"
+    ],
+    "poster": "/posters/156 花样年华.jpg",
+    "backdrop": "https://picsum.photos/seed/m62-bg/1280/720",
+    "description": "两对夫妻中的男女主角发现各自伴侣出轨，在克制与暧昧之间，一段隐秘的情愫悄然滋生。"
+  },
+  {
+    "id": "m63",
+    "title": "重庆森林",
+    "originalTitle": "Chungking Express",
+    "type": "movie",
+    "year": 1994,
+    "rating": 8.8,
+    "ratingCount": 720000,
+    "popularity": 84,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "中国香港",
+    "duration": 102,
+    "director": "王家卫",
+    "cast": [
+      "梁朝伟",
+      "王菲",
+      "金城武"
+    ],
+    "poster": "/posters/110 重庆森林.jpg",
+    "backdrop": "https://picsum.photos/seed/m63-bg/1280/720",
+    "description": "两段发生在香港重庆大厦附近的爱情故事，用王家卫式的镜头语言，诉说着都市人的孤独与相遇。"
+  },
+  {
+    "id": "m64",
+    "title": "春光乍泄",
+    "originalTitle": "Happy Together",
+    "type": "movie",
+    "year": 1997,
+    "rating": 8.9,
+    "ratingCount": 630000,
+    "popularity": 83,
+    "genre": [
+      "剧情",
+      "爱情"
+    ],
+    "region": "中国香港",
+    "duration": 96,
+    "director": "王家卫",
+    "cast": [
+      "张国荣",
+      "梁朝伟"
+    ],
+    "poster": "/posters/086 春光乍泄.jpg",
+    "backdrop": "https://picsum.photos/seed/m64-bg/1280/720",
+    "description": "一对恋人远赴阿根廷，在异国他乡的旅途中，爱情在争吵与分离间反复拉扯，最终走向各自的远方。"
+  },
+  {
+    "id": "m67",
+    "title": "绿皮书",
+    "originalTitle": "Green Book",
+    "type": "movie",
+    "year": 2018,
+    "rating": 8.9,
+    "ratingCount": 1290000,
+    "popularity": 90,
+    "genre": [
+      "剧情",
+      "喜剧",
+      "传记"
+    ],
+    "region": "美国",
+    "duration": 130,
+    "director": "彼得·法雷里",
+    "cast": [
+      "维果·莫腾森",
+      "马赫沙拉·阿里"
+    ],
+    "poster": "/posters/058 绿皮书.jpg",
+    "backdrop": "https://picsum.photos/seed/m67-bg/1280/720",
+    "description": "白人司机托尼与黑人钢琴家唐纳德一同踏上南方巡演之旅，一路跨越种族与阶级的偏见，结下深厚友谊。"
+  },
+  {
+    "id": "m68",
+    "title": "波西米亚狂想曲",
+    "originalTitle": "Bohemian Rhapsody",
+    "type": "movie",
+    "year": 2018,
+    "rating": 8.8,
+    "ratingCount": 820000,
+    "popularity": 86,
+    "genre": [
+      "剧情",
+      "音乐",
+      "传记"
+    ],
+    "region": "美国 / 英国",
+    "duration": 134,
+    "director": "布莱恩·辛格",
+    "cast": [
+      "拉米·马雷克",
+      "露西·宝通"
+    ],
+    "poster": "/posters/216 波西米亚狂想曲.jpg",
+    "backdrop": "https://picsum.photos/seed/m68-bg/1280/720",
+    "description": "皇后乐队主唱弗雷迪·默丘里从崛起到迷失再到重生的传奇一生，以及那场震撼全球的 Live Aid 演唱会。"
+  },
+  {
+    "id": "m69",
+    "title": "寄生虫",
+    "originalTitle": "Parasite",
+    "type": "movie",
+    "year": 2019,
+    "rating": 8.8,
+    "ratingCount": 1580000,
+    "popularity": 91,
+    "genre": [
+      "剧情"
+    ],
+    "region": "韩国",
+    "duration": 132,
+    "director": "奉俊昊",
+    "cast": [
+      "宋康昊",
+      "李善均",
+      "赵茹珍"
+    ],
+    "poster": "/posters/135 寄生虫.jpg",
+    "backdrop": "https://picsum.photos/seed/m69-bg/1280/720",
+    "description": "一家贫困家庭通过伪装逐步「寄生」进富人家中，阶级的裂缝在精心布局下最终走向失控。"
+  },
+  {
+    "id": "m70",
+    "title": "何以为家",
+    "originalTitle": "Capernaum",
+    "type": "movie",
+    "year": 2018,
+    "rating": 9.1,
+    "ratingCount": 990000,
+    "popularity": 87,
+    "genre": [
+      "剧情"
+    ],
+    "region": "黎巴嫩 / 法国 / 美国",
+    "duration": 126,
+    "director": "娜丁·拉巴基",
+    "cast": [
+      "赞恩·阿尔·拉菲亚"
+    ],
+    "poster": "/posters/038 何以为家.jpg",
+    "backdrop": "https://picsum.photos/seed/m70-bg/1280/720",
+    "description": "十二岁的赞恩把父母告上法庭，控诉他们生下了自己却没有能力抚养，一个关于生存与责任的残酷故事。"
+  },
+  {
+    "id": "m71",
+    "title": "我不是药神",
+    "originalTitle": "Dying to Survive",
+    "type": "movie",
+    "year": 2018,
+    "rating": 9.0,
+    "ratingCount": 1890000,
+    "popularity": 95,
+    "genre": [
+      "剧情",
+      "喜剧"
+    ],
+    "region": "中国大陆",
+    "duration": 117,
+    "director": "文牧野",
+    "cast": [
+      "徐峥",
+      "王传君",
+      "谭卓"
+    ],
+    "poster": "/posters/036 我不是药神.jpg",
+    "backdrop": "https://picsum.photos/seed/m71-bg/1280/720",
+    "description": "卖印度神油的老板程勇铤而走险代购救命药，从一个唯利是图的商人，逐渐成为病人们心中的「药神」。"
+  },
+  {
+    "id": "m83",
+    "title": "你的名字。",
+    "originalTitle": "Your Name",
+    "type": "movie",
+    "year": 2016,
+    "rating": 8.5,
+    "ratingCount": 1180000,
+    "popularity": 89,
+    "genre": [
+      "动画",
+      "爱情",
+      "奇幻"
+    ],
+    "region": "日本",
+    "duration": 106,
+    "director": "新海诚",
+    "cast": [
+      "神木隆之介",
+      "上白石萌音"
+    ],
+    "poster": "/posters/163 你的名字.jpg",
+    "backdrop": "https://picsum.photos/seed/m83-bg/1280/720",
+    "description": "生活在乡村的女高中生宫水三叶与东京少年立花泷在梦中互换身体，一场跨越时空与灾难的青春恋爱物语就此展开。"
+  },
+  {
+    "id": "m84",
+    "title": "大话西游之月光宝盒",
+    "originalTitle": "A Chinese Odyssey Part One: Pandora's Box",
+    "type": "movie",
+    "year": 1995,
+    "rating": 9.0,
+    "ratingCount": 1090000,
+    "popularity": 88,
+    "genre": [
+      "喜剧",
+      "爱情",
+      "奇幻"
+    ],
+    "region": "中国香港 / 中国大陆",
+    "duration": 87,
+    "director": "刘镇伟",
+    "cast": [
+      "周星驰",
+      "莫文蔚",
+      "吴孟达"
+    ],
+    "poster": "/posters/044 大话西游之月光宝盒.jpg",
+    "backdrop": "https://picsum.photos/seed/m84-bg/1280/720",
+    "description": "至尊宝为救白晶晶穿越回五百年前，机缘巧合获得月光宝盒，展开一段啼笑皆非的时空之旅。"
+  },
+  {
+    "id": "m85",
+    "title": "喜剧之王",
+    "originalTitle": "King of Comedy",
+    "type": "movie",
+    "year": 1999,
+    "rating": 8.8,
+    "ratingCount": 890000,
+    "popularity": 86,
+    "genre": [
+      "喜剧",
+      "爱情"
+    ],
+    "region": "中国香港",
+    "duration": 85,
+    "director": "周星驰 / 李力持",
+    "cast": [
+      "周星驰",
+      "张柏芝",
+      "莫文蔚"
+    ],
+    "poster": "/posters/088 喜剧之王.jpg",
+    "backdrop": "https://picsum.photos/seed/m85-bg/1280/720",
+    "description": "跑龙套的尹天仇执着于演戏，与舞女柳飘飘在困顿中相互取暖，用一句「我养你啊」道尽小人物的大梦想。"
+  },
+  {
+    "id": "m86",
+    "title": "功夫",
+    "originalTitle": "Kung Fu Hustle",
+    "type": "movie",
+    "year": 2004,
+    "rating": 8.8,
+    "ratingCount": 1180000,
+    "popularity": 89,
+    "genre": [
+      "喜剧",
+      "动作",
+      "奇幻"
+    ],
+    "region": "中国大陆 / 中国香港",
+    "duration": 99,
+    "director": "周星驰",
+    "cast": [
+      "周星驰",
+      "元秋",
+      "元华"
+    ],
+    "poster": "/posters/090 功夫.jpg",
+    "backdrop": "https://picsum.photos/seed/m86-bg/1280/720",
+    "description": "一个混迹江湖的小混混，误打误撞卷入斧头帮与猪笼城寨的纷争，最终觉醒绝世武功。"
+  },
+  {
+    "id": "m87",
+    "title": "东成西就",
+    "originalTitle": "The Eagle Shooting Heroes",
+    "type": "movie",
+    "year": 1993,
+    "rating": 8.7,
+    "ratingCount": 790000,
+    "popularity": 85,
+    "genre": [
+      "喜剧",
+      "武侠"
+    ],
+    "region": "中国香港",
+    "duration": 100,
+    "director": "刘镇伟",
+    "cast": [
+      "张国荣",
+      "梁朝伟",
+      "林青霞"
+    ],
+    "poster": "/posters/145 射雕英雄传之东成西就.jpg",
+    "backdrop": "https://picsum.photos/seed/m87-bg/1280/720",
+    "description": "一群武林高手为了争夺九阴真经，上演了一场荒诞离奇、笑料百出的武侠喜剧。"
+  },
+  {
+    "id": "m88",
+    "title": "疯狂的石头",
+    "originalTitle": "Crazy Stone",
+    "type": "movie",
+    "year": 2006,
+    "rating": 8.6,
+    "ratingCount": 890000,
+    "popularity": 86,
+    "genre": [
+      "喜剧",
+      "犯罪"
+    ],
+    "region": "中国大陆",
+    "duration": 106,
+    "director": "宁浩",
+    "cast": [
+      "郭涛",
+      "黄渤",
+      "徐峥"
+    ],
+    "poster": "/posters/186 疯狂的石头.jpg",
+    "backdrop": "https://picsum.photos/seed/m88-bg/1280/720",
+    "description": "一块价值连城的翡翠引来了各路人马，多线叙事与黑色幽默交织成一出令人捧腹的闹剧。"
+  },
+  {
+    "id": "m99",
+    "title": "大闹天宫",
+    "originalTitle": "Havoc in Heaven",
+    "type": "movie",
+    "year": 1961,
+    "rating": 9.2,
+    "ratingCount": 490000,
+    "popularity": 80,
+    "genre": [
+      "动画",
+      "奇幻"
+    ],
+    "region": "中国大陆",
+    "duration": 106,
+    "director": "万籁鸣",
+    "cast": [
+      "邱岳峰"
+    ],
+    "poster": "/posters/055 大闹天宫.jpg",
+    "backdrop": "https://picsum.photos/seed/m99-bg/1280/720",
+    "description": "孙悟空大闹龙宫、天庭，勇斗天兵天将，将不屈不挠的反抗精神演绎得淋漓尽致。"
+  }
+]
